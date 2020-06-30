@@ -7,7 +7,7 @@ This is a modified hack from https://discord.gg/KChmJA
 FEATURES
 
 - no fast reel
-- no instant reel
+- no instant catch
 
 - Free Premium
 - No Fish Fight
