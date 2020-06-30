@@ -2,6 +2,9 @@
 
 This is a modified hack from https://discord.gg/KChmJA
 
+Assembly-CSharp		   - latest modifications
+Assembly-CSharp_before - is before last modifications
+
 =========================
 
 FEATURES
