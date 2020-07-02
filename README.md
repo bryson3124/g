@@ -1,12 +1,5 @@
 # Fishing-Planet-Hack v3.6.9
 
-This is a modified hack from https://discord.gg/KChmJA
-
-Assembly-CSharp		   - latest modifications<br/>
-Assembly-CSharp_before - is before last modifications
-
-=========================
-
 FEATURES
 
 - no fast reel
